@@ -1,0 +1,32 @@
+[
+  {
+    "gasoline": {
+      "city": { "liters": 0.35, "cost": 2.05, "co2": 11.38 },
+      "road": { "liters": 0.32, "cost": 1.87, "co2": 11.38 }
+    },
+    "gnv": {
+      "city": { "m3": 0.45, "cost": 1.6, "co2": 9.1 },
+      "road": { "m3": 0.41, "cost": 1.45, "co2": 9.1 }
+    }
+  },
+  {
+    "gasoline": {
+      "city": { "liters": 0.38, "cost": 2.22, "co2": 11.38 },
+      "road": { "liters": 0.35, "cost": 2.05, "co2": 11.38 }
+    },
+    "gnv": {
+      "city": { "m3": 0.5, "cost": 1.77, "co2": 9.1 },
+      "road": { "m3": 0.45, "cost": 1.6, "co2": 9.1 }
+    }
+  },
+  {
+    "gasoline": {
+      "city": { "liters": 0.4, "cost": 2.34, "co2": 11.38 },
+      "road": { "liters": 0.33, "cost": 1.93, "co2": 11.38 }
+    },
+    "gnv": {
+      "city": { "m3": 0.51, "cost": 1.81, "co2": 9.1 },
+      "road": { "m3": 0.43, "cost": 1.52, "co2": 9.1 }
+    }
+  }
+]
